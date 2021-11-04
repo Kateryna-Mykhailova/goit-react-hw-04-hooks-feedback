@@ -1,0 +1,13 @@
+.statistic_title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.statistic_list {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+}
+.statistic_item {
+  margin-bottom: 10px;
+}

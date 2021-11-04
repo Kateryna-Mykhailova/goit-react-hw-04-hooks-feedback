@@ -1,0 +1,17 @@
+.App {
+  width: 1200px;
+  text-align: center;
+  padding: 30px;
+}
+.Feedback_container {
+  display: inline-block;
+  width: 750px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  padding: 30px;
+}
+
+.Statistic_list {
+  list-style: none;
+  text-align: left;
+}

@@ -1,0 +1,19 @@
+.feedback_btn {
+  width: 75px;
+  margin-right: 10px;
+  height: 35px;
+  background-color: rgba(235, 231, 227, 0.432);
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.feedback_btn:hover {
+  background-color: rgba(151, 146, 141, 0.753);
+  color: rgb(244, 248, 244);
+}
+
+.feedback_btn_container {
+  padding: 20px 0;
+}
